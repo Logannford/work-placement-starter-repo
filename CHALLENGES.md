@@ -9,6 +9,8 @@ Start with Level 1 and work your way up. Don't worry if you get stuck - that's p
 
 I have thrown you in the deep here a bit (sorry, it is how I learned though!). If you get stuck remember, Google is your best friend. Or just give a developer a shout. We're all happy to help.
 
+Although we have outlined the below challenges for you to strengthen your understanding of web dev, please feel free to reach out with better tasks / challenges you feel would be more beneficial to your time with us 🤓
+
 ## 🌟 Level 1: Getting Started (Super Easy!)
 
 ### Challenge 1: Change Text Colors

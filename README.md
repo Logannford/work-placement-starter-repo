@@ -64,6 +64,10 @@ spotify-recently-played/
   - Album artwork
   - Play time
 
+## Starting the challenges!
+
+Head over to [here](/CHALLENGES.md) to get started with the challenges!
+
 ## Security Note
 
 ⚠️ Never commit your `.env` file or share your Client ID publicly. These should remain private to prevent unauthorized access to your Spotify application. 
