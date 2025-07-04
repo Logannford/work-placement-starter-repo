@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recently Played on Spotify</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Recently Played on Spotify</h1>
+            <button id="login" class="spotify-button">Login with Spotify</button>
+        </header>
+        
+        <main>
+            <div id="user-profile" class="hidden">
+                <img id="profile-image" alt="Profile Picture" />
+                <h2 id="profile-name"></h2>
+            </div>
+            
+            <div id="tracks-container">
+                <h2>Recently Played Tracks</h2>
+                <div id="tracks" class="tracks-grid"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Made with ❤️ using Spotify Web API</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html> 
