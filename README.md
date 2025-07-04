@@ -5,6 +5,7 @@ This web application displays your recently played tracks from Spotify using the
 ![Spotify Recently Played App Screenshot](/example.png)
 
 (I know the below may seem overwhelming, but I will be walking you through it so don't panic)
+(If you don't have/don't want a Spotify account, you can use my account and see my amazing music taste😎)
 
 ## Prerequisites
 
